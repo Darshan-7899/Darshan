@@ -6,8 +6,8 @@
 - 📊 Passionate about data analysis, visualization, and predictive modeling.
 - 📸 I love exploring technology and photography.
 
+  Let's connect: [linkedin.com/in/darshan7899]
 
-## 🔧 Skills
-- **Programming Languages**: Python, SQL 
-- - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn
+
+
 
