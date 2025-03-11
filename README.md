@@ -1,8 +1,16 @@
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
 
-<p align="left">
-  I'm a passionate data analyst skilled in Python, data science, and machine learning. My tools of the trade include Python, NumPy, Pandas, and SQL.
-</p>
+📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
+
+I am a highly motivated BSc graduate with a strong foundation in data analysis, Python, Excel, and AI/ML. I am passionate about transforming raw data into meaningful insights to drive business decisions.
+
+My skills include:
+✔ Data Cleaning & Visualization (Excel, Power BI, Tableau)
+✔ Programming & Analysis (Python, SQL)
+✔ Machine Learning Basics (AI/ML models)
+✔ Statistical & Business Insights
+
+I am eager to learn, adapt, and contribute to real-world data-driven solutions. Currently, I am expanding my expertise through technical training at Apponix Academy to strengthen my analytical and problem-solving skills.
 
 ###
 
