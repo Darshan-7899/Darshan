@@ -1,25 +1,34 @@
+# Darshan-7899/Darshan
+
+![Profile Banner](URL_TO_YOUR_GIF)
+
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
-
-
-
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
 
+## Table of Contents
+- [Overview](#overview)
+- [Skills](#skills)
+- [GitHub Stats](#github-stats)
+- [Languages and Tools](#languages-and-tools)
+- [Contact](#contact)
+- [License](#license)
 
-My skills include:
-* Data Cleaning & Visualization (Excel, Power BI, Tableau)
-* Programming & Analysis (Python, SQL)
-* Machine Learning Basics (AI/ML models)
-* Statistical & Business Insights
+## Overview
+Welcome to my profile repository! This repository serves as a showcase of my skills and interests. Here, you will find information about my expertise in data analysis, programming, and more.
 
-###
+## Skills
+- **Data Cleaning & Visualization**: Excel, Power BI, Tableau
+- **Programming & Analysis**: Python, SQL
+- **Machine Learning Basics**: AI/ML models
+- **Statistical & Business Insights**
 
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darshan-7899&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-
-###
+## Languages and Tools
 <div align="left">
   <h3>Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -35,10 +44,8 @@ My skills include:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="Excel logo" />
 </div>
 
-###
-
+## 
 <div align="left">
-  <h3>Contact:</h3>
   <a href="mailto:darshh7899@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
