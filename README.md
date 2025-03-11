@@ -2,7 +2,6 @@
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
 
-I am a highly motivated BSc graduate with a strong foundation in data analysis, Python, Excel, and AI/ML. I am passionate about transforming raw data into meaningful insights to drive business decisions.
 
 My skills include:
 * Data Cleaning & Visualization (Excel, Power BI, Tableau)
