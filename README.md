@@ -1,21 +1,12 @@
 # Darshan-7899/Darshan
 
-![Profile Banner](![Uploading image.png…])
-
 
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
 
-## Table of Contents
-- [Overview](#overview)
-- [Skills](#skills)
-- [GitHub Stats](#github-stats)
-- [Languages and Tools](#languages-and-tools)
-- [Contact](#contact)
-- [License](#license)
 
-## Overview
+
 Welcome to my profile repository! This repository serves as a showcase of my skills and interests. Here, you will find information about my expertise in data analysis, programming, and more.
 
 ## Skills
@@ -45,7 +36,7 @@ Welcome to my profile repository! This repository serves as a showcase of my ski
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="Excel logo" />
 </div>
 
-## 
+## Contact
 <div align="left">
   <a href="mailto:darshh7899@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
