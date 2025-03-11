@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Darsahn! and I'm learning Pyhton, data science, and machine learning....</h2>
+<h2 align="left">Hi 👋! My name is Darsahn!
+   and I'm learning Pyhton, data science, and machine learning.</h2>
 
 ###
 
