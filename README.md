@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
 
-<h3 align="right" alt="coding" width="400" src="![github image1](https://github.com/user-attachments/assets/c7127297-215f-4278-b553-a22fcd0eb017)
 
 
 
