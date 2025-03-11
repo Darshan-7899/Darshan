@@ -1,6 +1,7 @@
 # Darshan-7899/Darshan
 
-![Profile Banner](URL_TO_YOUR_GIF)
+![Profile Banner](![Uploading image.png…])
+
 
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
 
