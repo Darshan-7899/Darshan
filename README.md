@@ -10,8 +10,6 @@ My skills include:
 * Machine Learning Basics (AI/ML models)
 * Statistical & Business Insights
 
-I am eager to learn, adapt, and contribute to real-world data-driven solutions. Currently, I am expanding my expertise through technical training at Apponix Academy to strengthen my analytical and problem-solving skills.
-
 ###
 
 <div align="center">
