@@ -1,14 +1,13 @@
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
 
 <p align="left">
-  I'm a passionate data analyst skilled in Python, data science, and machine learning. My tools of the trade include Python, NumPy, Pandas, Tableau, SQL, and Excel.
+  I'm a passionate data analyst skilled in Python, data science, and machine learning. My tools of the trade include Python, NumPy, Pandas, and SQL.
 </p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darshan-7899&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-7899&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ###
@@ -21,11 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="30" alt="Tableau logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="Excel logo" />
 </div>
 
 ###
