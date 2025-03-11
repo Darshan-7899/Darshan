@@ -5,10 +5,10 @@
 I am a highly motivated BSc graduate with a strong foundation in data analysis, Python, Excel, and AI/ML. I am passionate about transforming raw data into meaningful insights to drive business decisions.
 
 My skills include:
-✔ Data Cleaning & Visualization (Excel, Power BI, Tableau)
-✔ Programming & Analysis (Python, SQL)
-✔ Machine Learning Basics (AI/ML models)
-✔ Statistical & Business Insights
+* Data Cleaning & Visualization (Excel, Power BI, Tableau)
+* Programming & Analysis (Python, SQL)
+* Machine Learning Basics (AI/ML models)
+* Statistical & Business Insights
 
 I am eager to learn, adapt, and contribute to real-world data-driven solutions. Currently, I am expanding my expertise through technical training at Apponix Academy to strengthen my analytical and problem-solving skills.
 
