@@ -7,8 +7,6 @@
 
 
 
-Welcome to my profile repository! This repository serves as a showcase of my skills and interests. Here, you will find information about my expertise in data analysis, programming, and more.
-
 ## Skills
 - **Data Cleaning & Visualization**: Excel, Power BI, Tableau
 - **Programming & Analysis**: Python, SQL
