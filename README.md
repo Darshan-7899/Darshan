@@ -29,8 +29,7 @@
 </div>
 
 <div align="right">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="200" alt="Coding GIF 1" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="200" alt="Coding GIF 2" />
+  <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="200" alt="Coding GIF" />
 </div>
 
 ## Contact
