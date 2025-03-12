@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="200" alt="Coding GIF" />
+</div>
+
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
@@ -28,10 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server logo" />
 </div>
 
-<div align="right">
-  <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="200" alt="Coding GIF" />
-</div>
-
 ## Contact
 <div align="left">
   <a href="mailto:darshh7899@gmail.com">
@@ -41,6 +41,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/Darshan-7899/Darshan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
-  </a>
-</div>
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-b ▋
