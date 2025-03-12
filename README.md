@@ -20,7 +20,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Darshan-7899&theme=radical" alt="GitHub Trophies" />
 </div>
 
-
+## Languages and Tools
 <div align="left">
   <h3>Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo" />
 </div>
 
 ## Contact
