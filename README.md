@@ -11,10 +11,10 @@
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darshan-7899&show_icons=true&theme=radical" alt="GitHub Stats" />
-
   <img src="https://github-profile-trophy.vercel.app/?username=Darshan-7899&theme=radical" alt="GitHub Trophies" />
 </div>
 
+## Languages and Tools
 <div align="left">
   <h3>Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -26,6 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server logo" />
+</div>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="200" alt="Coding GIF 1" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="200" alt="Coding GIF 2" />
 </div>
 
 ## Contact
