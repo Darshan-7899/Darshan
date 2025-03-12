@@ -9,6 +9,15 @@
     - **Programming & Analysis**: Python, SQL
     - **Machine Learning Basics**: AI/ML models
     - **Statistical & Business Insights**
+
+
+
+
+
+
+
+
+    
   </div>
   <div>
     <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="200" alt="Coding GIF" />
