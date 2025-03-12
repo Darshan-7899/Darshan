@@ -1,11 +1,6 @@
-
-
-
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
-
-
 
 ## Skills
 - **Data Cleaning & Visualization**: Excel, Power BI, Tableau
@@ -30,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="Excel logo" />
 </div>
 
 ## Contact
