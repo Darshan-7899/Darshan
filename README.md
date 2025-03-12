@@ -1,16 +1,19 @@
-<div align="right">
-  <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="200" alt="Coding GIF" />
-</div>
-
 <h2 align="left">Hi 👋! My name is Darshan!</h2>
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
 
 ## Skills
-- **Data Cleaning & Visualization**: Excel, Power BI, Tableau
-- **Programming & Analysis**: Python, SQL
-- **Machine Learning Basics**: AI/ML models
-- **Statistical & Business Insights**
+<div style="display: flex; align-items: center;">
+  <div>
+    - **Data Cleaning & Visualization**: Excel, Power BI, Tableau
+    - **Programming & Analysis**: Python, SQL
+    - **Machine Learning Basics**: AI/ML models
+    - **Statistical & Business Insights**
+  </div>
+  <div>
+    <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="200" alt="Coding GIF" />
+  </div>
+</div>
 
 ## GitHub Stats
 <div align="center">
@@ -41,4 +44,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/Darshan-7899/Darshan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-b ▋
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
+  </a>
+</div>
