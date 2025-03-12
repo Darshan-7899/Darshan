@@ -10,6 +10,7 @@
 
 <div align="center">
   <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="200" alt="Coding GIF" />
+  <img src="https://github.com/Darshan-7899/Darshan/blob/21587d06dbbf4be813173e60c222473226b29401/new_image.gif" height="200" alt="New Image" />
 </div>
 
 ## GitHub Stats
