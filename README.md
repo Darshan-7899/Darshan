@@ -17,12 +17,10 @@
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darshan-7899&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Darshan-7899&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ## Languages and Tools
 <div align="left">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" />
@@ -36,6 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda logo" />
+  <img width="12" />
 </div>
 
 ## Contact
