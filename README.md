@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋! My name is Darshan!</h2>
+<h2 align="left">Hi 👋! My name is Darshan!</h2>  
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
+
+
 
 ## Skills
 - **Data Cleaning & Visualization**: Excel, Power BI, Tableau
@@ -15,10 +17,8 @@
 </div>
 
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshan-7899&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
+
 
 ## Languages and Tools
 <div align="left">
@@ -38,6 +38,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+  <img width="12" />
+   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Logo" width="40" height="40"/>
+  <img width="12" />
 </div>
 
 
@@ -50,6 +54,7 @@
 This project leverages data visualization and analytics to uncover patterns in customer purchases.
 
 > 📊 [View the repository](https://github.com/Darshan-7899/CustomerPurchaseAnalysis.git)
+
 
 
 ## Contact
