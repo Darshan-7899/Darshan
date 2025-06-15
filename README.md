@@ -13,11 +13,7 @@
 - **Machine Learning Basics**: AI/ML models
 - **Statistical & Business Insights**
 
-<div align="center">
-  <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="300" alt="Coding GIF" />
-  <img width="50" />
 
-</div>
 
 
 
