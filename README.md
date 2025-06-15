@@ -56,6 +56,22 @@ This project leverages data visualization and analytics to uncover patterns in c
 
 > 📊 [View the repository](https://github.com/Darshan-7899/CustomerPurchaseAnalysis.git)
 
+## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img width="250" src="https://github-readme-stats.vercel.app/api?username=Darshan-7899&show_icons=true&theme=radical" alt="Darshan-7899's GitHub stats" />
+    </td>
+    <td>
+      <img width="250" src="https://github-readme-streak-stats.herokuapp.com?user=Darshan-7899&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-7899&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## Contact
