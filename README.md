@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋! My name is Darshan!</h2>  
 
+![Image](https://github.com/user-attachments/assets/49c96999-3117-44b7-807c-533a60839619)
+
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
 
