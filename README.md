@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Darshan!</h2>  
+<h2 align="center">Hi 👋! My name is Darshan!</h2>  
+
+<h2 align="center">![GitHub Banner](./github-banner.jpeg)
 
 📊 Aspiring Data Analyst | Passionate About Turning Data into Insights
 
