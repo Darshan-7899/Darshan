@@ -12,10 +12,12 @@
 - **Statistical & Business Insights**
 
 <div align="center">
-  <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="200" alt="Coding GIF" />
-  <img width="50" />
-  <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image2.jpg" height="200" alt="New Image" />
+  <img src="https://github.com/Darshan-7899/Darshan/blob/main/github%20image1.gif" height="300" alt="Coding GIF" />
+  <img width="50" />
+
 </div>
+
+
 
 
 
