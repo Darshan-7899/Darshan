@@ -35,6 +35,8 @@
   <img width="12" />
    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Logo" width="40" height="40"/>
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="35" alt="Power BI logo" />
+<img width="12" />
 </div>
 
 
